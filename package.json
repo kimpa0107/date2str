@@ -1,0 +1,21 @@
+{
+  "name": "@kimpa0107/date2str",
+  "version": "0.0.2",
+  "description": "Convert Data to formatted String",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "minify": "esbuild index.js --outfile=index.min.js --minify"
+  },
+  "homepage": "https://github.com/kimpa0107/date2str.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimpa0107/date2str.git"
+  },
+  "keywords": [
+    "date",
+    "convert"
+  ],
+  "author": "Jasper Kim",
+  "license": "MIT"
+}
